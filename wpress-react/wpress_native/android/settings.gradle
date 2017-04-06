@@ -1,0 +1,3 @@
+rootProject.name = 'wpress_native'
+
+include ':app'
